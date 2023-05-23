@@ -12,12 +12,7 @@ Functionalities include:
 7- Customize your work space (Background/music) and have all your preferences saved for next time.
 
 DEMO VID:  https://clipchamp.com/watch/SKqKVllLcrL
-<div style="position:relative;width:fit-content;height:fit-content;">
-            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/SKqKVllLcrL?utm_source=embed&utm_medium=embed&utm_campaign=watch">
-                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-            </a>
-            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/SKqKVllLcrL/embed" width="640" height="360"></iframe>
-        </div>
 
+WorkBud App Sharing Link: https://xd.adobe.com/view/841472d3-bdaa-4fa8-aa2e-123391a5f8cf-d147/?fullscreen
 
 NOTE: This project was implemented in only ADOBE XD so the actual backend implementation of the functionalities are not available it is only frontend.
